@@ -1,0 +1,15 @@
+{
+  "clientPassword": "1234Qwer",
+  "firstName": "Test",
+  "lastName": "Myer",
+  "dob": "12/12/1999",
+  "address": "1 Epping Street, KEDRON QLD 4031",
+  "succeedMsg1": "Congratulations, your account has been created and your MYER one number has been added",
+  "succeedMsg2": "Your account is now active",
+  "dupEmailMsg": "You already have an account.",
+  "addressLine1":"Lot301",
+  "addressLine2":"101 Martin St",
+  "city":"Sydney",
+  "postcode":"2000",
+  "statecode":"NSW"
+}

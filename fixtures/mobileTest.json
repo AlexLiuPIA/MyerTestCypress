@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "mobile": "用户@例子.广告",
+    "errmsg": "Please enter a valid Australian mobile phone number"
+  },
+  {
+    "id": 2,
+    "mobile": "Dörte@Sörensen.example.com",
+    "errmsg": "Please enter a valid Australian mobile phone number"
+  },
+  {
+    "id": 3,
+    "mobile": "   ",
+    "errmsg": "Please enter a valid Australian mobile phone number"
+  },
+  {
+    "id": 4,
+    "mobile": "!@#$%^&*())_+{}|:",
+    "errmsg": "Please enter a valid Australian mobile phone number"
+  },
+  {
+    "id": 5,
+    "mobile": "a",
+    "errmsg": "Please enter a valid Australian mobile phone number"
+  },
+  {
+    "id": 6,
+    "mobile": "0",
+    "errmsg": "Please enter a valid Australian mobile phone number"
+  },
+  {
+    "id": 7,
+    "mobile": "0921234567",
+    "errmsg": "Please enter a valid Australian mobile phone number"
+  },
+  {
+    "id": 8,
+    "mobile": "s+weissnathlajfhejlurtis+weissnathlajfhejlurtis+weissnathlajfhejlurtis+weissnathlajfhejlurtis+weissnathlajfhejlurtis+weissnathlajfhejlurtis+weissnathlajfhejlurtis+weissnathlajfhejlurtis+weissnathlajfhejlurtis+weissnathlajfhejl@urtis+weissnathlajfhejlurtis+weissnathlajfhejlurtis+weissnathlajfhejlurtis+weissnathlajfhejlurtis+weissnathlajfhejlurtis+weissnathlajfhejlurtis+weissnathlajfhejl.com",
+    "errmsg": "Please enter a valid Australian mobile phone number"
+  },
+  {
+    "id": 9,
+    "mobile": "<script>alert('test');</script>",
+    "errmsg": "Please enter a valid Australian mobile phone number"
+  },
+  {
+    "id": 10,
+    "mobile": "; DROP TABLE Test; --",
+    "errmsg": "Please enter a valid Australian mobile phone number"
+  }
+]

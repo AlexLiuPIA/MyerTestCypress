@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "dob": "用户@例子.广告",
+    "errmsg": "Please enter a valid birthday"
+  },
+  {
+    "id": 2,
+    "dob": "20/20/2020",
+    "errmsg": "Please enter a valid birthday"
+  },
+  {
+    "id": 3,
+    "dob": "   ",
+    "errmsg": "Please enter a valid birthday"
+  },
+  {
+    "id": 4,
+    "dob": "!@#$%^&*())_+{}|:",
+    "errmsg": "Please enter a valid birthday"
+  },
+  {
+    "id": 5,
+    "dob": "a",
+    "errmsg": "Please enter a valid birthday"
+  },
+  {
+    "id": 6,
+    "dob": "0",
+    "errmsg": "Please enter a valid birthday"
+  },
+  {
+    "id": 7,
+    "dob": "0921234567",
+    "errmsg": "Please enter a valid birthday"
+  },
+  {
+    "id": 8,
+    "dob": "s+weissnathlajfhejlurtis+weissnathlajfhejlurtis+weissnathlajfhejlurtis+weissnathlajfhejlurtis+weissnathlajfhejlurtis+weissnathlajfhejlurtis+weissnathlajfhejlurtis+weissnathlajfhejlurtis+weissnathlajfhejlurtis+weissnathlajfhejl@urtis+weissnathlajfhejlurtis+weissnathlajfhejlurtis+weissnathlajfhejlurtis+weissnathlajfhejlurtis+weissnathlajfhejlurtis+weissnathlajfhejlurtis+weissnathlajfhejl.com",
+    "errmsg": "Please enter a valid birthday"
+  },
+  {
+    "id": 9,
+    "dob": "<script>alert('test');</script>",
+    "errmsg": "Please enter a valid birthday"
+  },
+  {
+    "id": 10,
+    "dob": "; DROP TABLE Test; --",
+    "errmsg": "Please enter a valid birthday"
+  }
+]

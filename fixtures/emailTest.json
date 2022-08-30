@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "email": "12345"
+  },
+  {
+    "id": 2,
+    "email": "abcdefghijklmnopqrstuvwxyz"
+  },
+  {
+    "id": 3,
+    "email": "   "
+  },
+  {
+    "id": 4,
+    "email": "!@#$%^&*())_+{}|:"
+  },
+  {
+    "id": 5,
+    "email": "''''"
+  },
+  {
+    "id": 6,
+    "email": "gdhajlfj@"
+  },
+  {
+    "id": 7,
+    "email": "@123.com"
+  },
+  {
+    "id": 8,
+    "email": "urtis+weissnathlajfhejlurtis+weissnathlajfhejlurtis+weissnathlajfhejlurtis+weissnathlajfhejlurtis+weissnathlajfhejlurtis+weissnathlajfhejlurtis+weissnathlajfhejlurtis+weissnathlajfhejlurtis+weissnathlajfhejlurtis+weissnathlajfhejlurtis+weissnathlajfhejlurtis+weissnathlajfhejl@urtis+weissnathlajfhejlurtis+weissnathlajfhejlurtis+weissnathlajfhejlurtis+weissnathlajfhejlurtis+weissnathlajfhejlurtis+weissnathlajfhejlurtis+weissnathlajfhejl.com"
+  },
+  {
+    "id": 9,
+    "email": "用户@例子.广告"
+  },
+  {
+    "id": 10,
+    "email": "Dörte@Sörensen.example.com"
+  }
+]

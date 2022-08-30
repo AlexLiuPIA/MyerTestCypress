@@ -1,0 +1,50 @@
+[
+  {
+    "firstName": "fghgjk",
+    "lastName": "cghvjkl",
+    "email": "<script>alert('test');</script>",
+    "dob": "2000-02-02",
+    "mobile": "<script>alert('test');</script>",
+    "logonPassword": "123Qwe12",
+    "address": {
+        "city": "GORANBA",
+        "stateCode": "QLD",
+        "postcode": "4421",
+        "countryCode": "MY",
+        "street": "48 Dahlkes Rd"
+    },
+    "isRegistrationPage": true
+ },
+ {
+   "firstName": "fghgjk",
+   "lastName": "dghlak",
+   "email": "dvhjagkshfbjakh@adsgy6782.com",
+   "dob": "2000-02-02",
+   "mobile": "0467382673",
+   "logonPassword": "123Qwe12",
+   "address": {
+       "city": "GORANBA",
+       "stateCode": "11111111",
+       "postcode": "4421",
+       "countryCode": "AU",
+       "street": "48 Dahlkes Rd"
+   },
+   "isRegistrationPage": false
+ },
+ {
+   "firstName": "JS Injection Test",
+   "lastName": "<script>alert('test');</script>",
+   "email": "dvhjagkshfbjakh@adsgy6782.com",
+   "dob": "2000-02-02",
+   "mobile": "0467382673",
+   "logonPassword": "123Qwe12",
+   "address": {
+       "city": "GORANBA",
+       "stateCode": "QLD",
+       "postcode": "4421",
+       "countryCode": "AU",
+       "street": "48 Dahlkes Rd"
+   },
+   "isRegistrationPage": true
+ }
+]
