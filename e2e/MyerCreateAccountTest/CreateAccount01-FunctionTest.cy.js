@@ -190,11 +190,13 @@ it('TC03 - Register and enter address manually', () => {
     //Input address
     cy.get('#address')
       .type(global.address, { delay: 0 })
+      .wait(200)
 
     //Select first from dropdown list
     cy.get('.MuiListItem-button')
       .first()
       .click()
+      .wait(200)
   }
 
 
@@ -241,7 +243,7 @@ it('TC03 - Register and enter address manually', () => {
   //Verification after submission of registration form
   function verify_registration_result(succeedMsg) {
     //Verify the succeed msg
-    cy.get('#messageText', { timeout: 15000 })
+    cy.get('#messageText', { timeout: 20000 })
       .should('have.text', succeedMsg)
 
     //Verify the URL has /account
