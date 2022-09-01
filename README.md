@@ -1,6 +1,7 @@
 # MyerTestCypress
 
 Test Suite 01 - Function Tests
+
 Include creating account via both JOIN button and Create Account button, with auto-selected address and manual-input address.
 
 TC01 - Enter email and register via JOIN button
@@ -11,6 +12,7 @@ TC03 - Register and enter address manually
 
 
 Test Suite 02 - Negative Tests
+
 Include using empty email and existing email address to create account, reading invalid data from Json files and testing invalid value for input fields. SQL injection and JS injection is also included in the invalid data.
 
 TC01 - Empty Email
@@ -31,6 +33,7 @@ TC08 - Register with existing email address
 
 
 Test Suite 03 - API Tests
+
 Include API test so that can skip the FE restriction to test how BE handling invalid data in Json body.
 
 TC01 - Test Create Account API for registration using existing x-api-key
